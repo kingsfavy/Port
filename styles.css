@@ -99,7 +99,7 @@ color:blue;
 
 @media(max-width:768px){
 .side-bar{
-height:auto;
+height:100vh;
 background:#E8EFF2;
 }
 }
