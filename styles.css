@@ -95,6 +95,7 @@ font-weight:200;
 }
 .mail{
 color:blue;
+cursor:pointer;
 }
 
 @media(max-width:768px){
