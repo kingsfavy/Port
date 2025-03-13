@@ -110,5 +110,6 @@ background:#E8EFF2;
   .side-bar{
     top:0;
     position:absolute;
+    background: linear-gradient(360deg, #FFFFF9, #E8EFF2);
   }
 }
