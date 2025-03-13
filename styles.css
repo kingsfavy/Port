@@ -104,3 +104,10 @@ height:auto;
 background:#E8EFF2;
 }
 }
+
+@media(width:768px){
+  .side-bar{
+    top:0;
+    position:relative;
+  }
+}
