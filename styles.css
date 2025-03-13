@@ -23,6 +23,7 @@ flex-wrap:wrap;
 width:100%;
 height:100vh;
 margin:0;
+  position:relative;
 }
 
 .con{
@@ -108,6 +109,6 @@ background:#E8EFF2;
 @media(width:768px){
   .side-bar{
     top:0;
-    position:relative;
+    position:absolute;
   }
 }
